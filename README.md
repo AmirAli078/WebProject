@@ -30,7 +30,9 @@ This is my third project using JSP and Servlets.
 
 ## 📸 Project Screens/Pages
 
-- admin_add_book_page  
+- admin_add_book_page
+  ![Project Screenshot](https://github.com/AmirAli078/WebProject/blob/0dffb4ec9de05724a8112e56660e1a8ee61c29fa/screenshots/addbook.JPG)
+
 - admin_page  
 - admin_view_all_users_order_page  
 - admin_view_single_user_order_page  
